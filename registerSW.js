@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/yourmicisfine-spela/sw.js', { scope: '/yourmicisfine-spela/' })})}
