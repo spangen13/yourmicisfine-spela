@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#121214" />
+  <circle cx="256" cy="256" r="192" fill="#1e1e24" stroke="#3b82f6" stroke-width="12" />
+  <!-- Studio Microphone Capsule -->
+  <rect x="216" y="140" width="80" height="150" rx="40" fill="#3b82f6" stroke="#60a5fa" stroke-width="8" />
+  <line x1="216" y1="210" x2="296" y2="210" stroke="#1e1e24" stroke-width="8" />
+  <!-- Diaphragm Grille Lines -->
+  <line x1="226" y1="175" x2="286" y2="175" stroke="#93c5fd" stroke-width="6" stroke-linecap="round" />
+  <line x1="226" y1="195" x2="286" y2="195" stroke="#93c5fd" stroke-width="6" stroke-linecap="round" />
+  <!-- Arc / Yoke Mount -->
+  <path d="M186 230 C186 310, 326 310, 326 230" stroke="#f59e0b" stroke-width="12" stroke-linecap="round" />
+  <!-- Stand & Base -->
+  <line x1="256" y1="310" x2="256" y2="380" stroke="#f59e0b" stroke-width="12" stroke-linecap="round" />
+  <line x1="206" y1="380" x2="306" y2="380" stroke="#f59e0b" stroke-width="16" stroke-linecap="round" />
+  <!-- Recording indicator light -->
+  <circle cx="256" cy="110" r="16" fill="#ef4444" />
+</svg>
